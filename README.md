@@ -20,4 +20,10 @@ npm run serve
 yarn run serve
 ```
 
-其中，wangEditor 相关的代码可参考 `src/App.js` 或者 `src/App.vue`
+<br />
+
+其中，wangEditor 相关的代码可参考
+
+Vue3 可参考 `src/App.js`
+
+Vue2、3 可参考 `src/App.vue`
