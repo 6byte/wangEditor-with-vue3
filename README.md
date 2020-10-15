@@ -1,13 +1,13 @@
-# wangEditor-with-vue
+# wangEditor-with-vue3
 
 wangEditor 在 vue 中的使用
 
 ```
 # 克隆项目
-git clone git@github.com:wangeditor-team/wangEditor-with-vue.git
+git clone git@github.com:wangeditor-team/wangEditor-with-vue3.git
 
 # 进入项目目录
-cd wangEditor-with-vue
+cd wangEditor-with-vue3
 
 # 安装依赖
 npm install
@@ -20,10 +20,4 @@ npm run serve
 yarn run serve
 ```
 
-<br />
-
-其中，wangEditor 相关的代码可参考
-
-Vue3 可参考 `src/App.js`
-
-Vue2、3 可参考 `src/App.vue`
+其中，wangEditor 相关的代码可参考 `src/App.js` 或 `src/App.vue`
